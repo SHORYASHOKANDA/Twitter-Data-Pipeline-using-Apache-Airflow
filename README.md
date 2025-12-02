@@ -1,3 +1,6 @@
+<img width="978" height="313" alt="image" src="https://github.com/user-attachments/assets/6fe37c18-c527-4f6a-8838-ccbcfedf8e6d" />
+
+
 🚀 Twitter Data Pipeline using Apache Airflow
 
 This project demonstrates a complete end-to-end data pipeline that extracts data from the Twitter (X) API, transforms it using Python, and orchestrates the workflow using Apache Airflow. The processed data is stored in Amazon S3, making it ready for further analytics or reporting.
